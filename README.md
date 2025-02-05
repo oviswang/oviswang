@@ -1,4 +1,6 @@
-From "technology is innocent" to "technology is fair
+From "technology is innocent" to "technology is fair."
+
+My name is wangxin.
 
 <!--
 oviswang/oviswang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
